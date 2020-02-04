@@ -10,6 +10,7 @@ Nesta página é possível encontrar informações e materiais abordados nas aul
 
 # Índice das Aulas
 
+- [Apresentação da Escola Livre de IA](https://docs.google.com/presentation/d/1FYE8A1FMcJxOInJth9jFOLuCohqPTOZNEyJeWvOEfhQ/edit?usp=sharing)
 	
 ### Aula 01/2019 - 04/Fevereiro - Lambda3
 

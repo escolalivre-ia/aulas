@@ -9,7 +9,8 @@ Nesta página é possível encontrar informações sobre a Escola e materiais ab
 - [**Youtube**](https://www.youtube.com/channel/UCLsS3dxDbu5uWcCJQxNdt9Q)
 - [**LinkedIn**](https://www.linkedin.com/company/escolalivre-ia/)
 - [**Médium @escolalivre.ia**](https://medium.com/@escolalivre.ia)
-- ![Twitter Follow](https://img.shields.io/twitter/follow/escolalivre_ia?label=escolalivre_ia&style=social)
+
+![Twitter Follow](https://img.shields.io/twitter/follow/escolalivre_ia?label=escolalivre_ia&style=social)
 
 # Índice das Aulas
 

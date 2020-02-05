@@ -15,6 +15,7 @@ Nesta página é possível encontrar informações sobre a Escola e materiais ab
 # Índice das Aulas
 
 - [Apresentação da Escola Livre de IA](https://docs.google.com/presentation/d/1FYE8A1FMcJxOInJth9jFOLuCohqPTOZNEyJeWvOEfhQ/edit?usp=sharing)
+	- [Apresentação em PDF](https://github.com/escolalivre-ia/aulas/blob/master/01_aula/Escola_Livre_IA_Apresentacao.pdf)
 	
 ### Aula 01/2019 - 04/Fevereiro - Lambda3
 

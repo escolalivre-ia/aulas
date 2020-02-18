@@ -9,7 +9,7 @@ Nesta página é possível encontrar informações sobre a Escola e materiais ab
 - [**Youtube**](https://www.youtube.com/channel/UCLsS3dxDbu5uWcCJQxNdt9Q)
 - [**LinkedIn**](https://www.linkedin.com/company/escolalivre-ia/)
 - [**Médium @escolalivre.ia**](https://medium.com/@escolalivre.ia)
-- [**Apoie a nossa comunicade**](https://apoia.se/escolalivre-ia)
+- [**Apoie a nossa comunicade financeiramente através do Apoia.se**](https://apoia.se/escolalivre-ia)
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/escolalivre_ia?label=escolalivre_ia&style=social)
 
@@ -26,5 +26,5 @@ Nesta página é possível encontrar informações sobre a Escola e materiais ab
 ### Aula 02/2020 - 18/Fevereiro - Lambda3
 
 - [Introdução a Python]()
-	- [Material]()
+	- [Material](https://github.com/escolalivre-ia/aulas/blob/master/02_aula/Escola%20Livre%20de%20IA%20-%20Introdu%C3%A7%C3%A3o%20ao%20Python%20-%2020200218.zip)
 

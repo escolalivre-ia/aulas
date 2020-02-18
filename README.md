@@ -13,7 +13,7 @@ Nesta página é possível encontrar informações sobre a Escola e materiais ab
 - [**LinkedIn**](https://www.linkedin.com/company/escolalivre-ia/)
 - [**Médium @escolalivre.ia**](https://medium.com/@escolalivre.ia)
 - [**Apoie a nossa comunicade financeiramente através do Apoia.se**](https://apoia.se/escolalivre-ia)
- - [Medium falando sobre onde foi investido a última campanha](https://medium.com/@schoolofai.sp/campanha-de-doa%C3%A7%C3%A3o-da-school-of-ai-brasil-hist%C3%B3rico-e-transpar%C3%AAncia-d8f61b57750f)
+	- [Medium falando sobre onde foi investido a última campanha](https://medium.com/@schoolofai.sp/campanha-de-doa%C3%A7%C3%A3o-da-school-of-ai-brasil-hist%C3%B3rico-e-transpar%C3%AAncia-d8f61b57750f)
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/escolalivre_ia?label=escolalivre_ia&style=social)
 

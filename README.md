@@ -9,6 +9,7 @@ Nesta página é possível encontrar informações sobre a Escola e materiais ab
 - [**Youtube**](https://www.youtube.com/channel/UCLsS3dxDbu5uWcCJQxNdt9Q)
 - [**LinkedIn**](https://www.linkedin.com/company/escolalivre-ia/)
 - [**Médium @escolalivre.ia**](https://medium.com/@escolalivre.ia)
+- [**Apoie a nossa comunicade**](https://apoia.se/escolalivre-ia)
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/escolalivre_ia?label=escolalivre_ia&style=social)
 
@@ -17,9 +18,13 @@ Nesta página é possível encontrar informações sobre a Escola e materiais ab
 - [Apresentação da Escola Livre de IA](https://docs.google.com/presentation/d/1FYE8A1FMcJxOInJth9jFOLuCohqPTOZNEyJeWvOEfhQ/edit?usp=sharing)
 	- [Apresentação em PDF](https://github.com/escolalivre-ia/aulas/blob/master/01_aula/Escola_Livre_IA_Apresentacao.pdf)
 	
-### Aula 01/2019 - 04/Fevereiro - Lambda3
+### Aula 01/2020 - 04/Fevereiro - Lambda3
 
 - [Escola Livre de IA - Aula 01.2020 Introduca a Big Data, Ciencia de Dados]()
 	- [Material](https://github.com/escolalivre-ia/aulas/blob/master/01_aula/Escola%20Livre%20de%20IA%20-%20Aula%2001.2020%20Introduca%20a%20Big%20Data%2C%20Ciencia%20de%20Dados.pdf) 
 
+### Aula 02/2020 - 18/Fevereiro - Lambda3
+
+- [Introdução a Python]()
+	- [Material]()
 

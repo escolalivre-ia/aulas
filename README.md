@@ -31,5 +31,5 @@ Nesta página é possível encontrar informações sobre a Escola e materiais ab
 ### Aula 02/2020 - 18/Fevereiro - Lambda3
 
 - [Introdução a Python]()
-	- [Material](https://github.com/escolalivre-ia/aulas/blob/master/02_aula/Escola%20Livre%20de%20IA%20-%20Introdu%C3%A7%C3%A3o%20ao%20Python%20-%2020200218.zip)
+	- [Material](https://github.com/escolalivre-ia/aulas/raw/master/02_aula/Escola%20Livre%20de%20IA%20-%20Introdu%C3%A7%C3%A3o%20ao%20Python%20-%2020200218.zip)
 

@@ -21,7 +21,23 @@ Nesta página é possível encontrar informações sobre a Escola e materiais ab
 
 - [Apresentação da Escola Livre de IA](https://docs.google.com/presentation/d/1FYE8A1FMcJxOInJth9jFOLuCohqPTOZNEyJeWvOEfhQ/edit?usp=sharing)
 	- [Apresentação em PDF](https://github.com/escolalivre-ia/aulas/blob/master/01_aula/Escola_Livre_IA_Apresentacao.pdf)
-	
+
+## Aulas Especiais da Escola Livre IA
+
+### Aula 01/2020 - 29/Fevereiro - Lambda3
+
+- [Parte 1 - Introdução a Python](https://www.youtube.com/watch?v=jqbleGUvZPw)
+- [Parte 2 - Introdução a Python](https://www.youtube.com/watch?v=TQYyAavju-o)
+	- [Material](https://github.com/escolalivre-ia/aulas/tree/master/01_aula_especial)
+
+### Aula 02/2020 - 21/Março - Lambda3
+
+- [Parte 1 - Sistema de Recomendação](https://www.youtube.com/watch?v=GRebiTZn3DU)
+- [Parte 2 - A Priori - Cesto de Compras](https://www.youtube.com/watch?v=VGS9lBgTQxI)
+	- [Material](https://github.com/escolalivre-ia/aulas/tree/master/02_aula_especial)
+
+## Aulas Normais da Grade da Escola Livre IA
+
 ### Aula 01/2020 - 04/Fevereiro - Lambda3
 
 - [Parte 1 - Escola Livre de IA - Aula 01.2020 Introduca a Big Data, Ciencia de Dados](https://www.youtube.com/watch?v=5Da7k5tNbQY)
@@ -33,4 +49,17 @@ Nesta página é possível encontrar informações sobre a Escola e materiais ab
 - [Parte 1 - Introdução a Python](https://www.youtube.com/watch?v=aPTF1snnnag)
 - [Parte 2 - Introdução a Python](https://www.youtube.com/watch?v=Ugj73nvpVj4)
 	- [Material](https://github.com/escolalivre-ia/aulas/tree/master/02_aula)
+
+
+### Aula 03/2020 - 03/Março - Lambda3
+
+- [Estatística Básica](https://www.youtube.com/watch?v=baLY8TlNfSg)
+- [Exploração de Dados](https://www.youtube.com/watch?v=-7QCP4FXtas)
+	- [Material](https://github.com/escolalivre-ia/aulas/tree/master/03_aula)
+
+### Aula 04/2020 - 17/Março - Lambda3
+
+- [Parte 1 - Regressão Linear](https://www.youtube.com/watch?v=-v8zvzQMXP0)
+- [Parte 2 - Regressão Linear - Aplicação Prática](https://www.youtube.com/watch?v=8HJuw4UNRI8)
+	 - [Material](https://github.com/escolalivre-ia/aulas/tree/master/04_aula)
 

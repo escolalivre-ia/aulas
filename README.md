@@ -35,6 +35,12 @@ Nesta página é possível encontrar informações sobre a Escola e materiais ab
 - [Parte 1 - Sistema de Recomendação](https://www.youtube.com/watch?v=GRebiTZn3DU)
 - [Parte 2 - A Priori - Cesto de Compras](https://www.youtube.com/watch?v=VGS9lBgTQxI)
 	- [Material](https://github.com/escolalivre-ia/aulas/tree/master/02_aula_especial)
+	
+### Aula 03/2020 - 28 de Março - Remoto
+
+- [A Matemática por trás da pandemia do covid-19](https://www.youtube.com/watch?v=p553vCn9iXA)
+	- [Material](https://github.com/escolalivre-ia/aulas/blob/master/03_aula_especial/Escola%20Livre%20de%20IA%20-%20Covid-19%20-%20Matem%C3%A1tica%20e%20Dados%20-%20%20vf%20-%2020200328.pdf)
+
 
 ## Aulas Normais da Grade da Escola Livre IA
 

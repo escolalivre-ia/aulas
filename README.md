@@ -1,4 +1,4 @@
-![Logotipo Escola Livre de IA](http://escolalivre-ia.com.br/img/header-escola-livre-de-inteligencia-artificial.gif){:height="33%" width="33%"}
+![Logotipo Escola Livre de IA](http://escolalivre-ia.com.br/img/header-escola-livre-de-inteligencia-artificial.gif)
 
 # [**Escola Livre de IA**](http://escolalivre-ia.com.br/)
 ## [*Inteligência Artificial ao alcance de todos.*](http://escolalivre-ia.com.br/)
@@ -10,29 +10,27 @@ Reunimos nessa página os links e conteúdos das aulas da Escola Livre de Inteli
 
 **CANAIS DIGITAIS DA ESCOLA LIVRE DE INTELIGÊNCIA ARTIFICIAL**
 
-[**SITE**](http://escolalivre-ia.com.br/)
+- [**SITE**](http://escolalivre-ia.com.br/)
 
-[**GRUPO NO FACEBOOK**](https://www.facebook.com/groups/escolalivre.ia/)
+- [**GRUPO NO FACEBOOK**](https://www.facebook.com/groups/escolalivre.ia/)
 
-[**PÁGINA FACEBOOK**](https://www.facebook.com/escolalivre.ia/)
+- [**PÁGINA FACEBOOK**](https://www.facebook.com/escolalivre.ia/)
 
-[**YOUTUBE**](https://www.youtube.com/c/EscolaLivreDeInteligenciaArtificial?sub_confirmation=1)
+- [**YOUTUBE**](https://www.youtube.com/c/EscolaLivreDeInteligenciaArtificial?sub_confirmation=1)
 
-[**APOIA-SE**](https://apoia.se/escolalivre-ia)
+- [**APOIA-SE**](https://apoia.se/escolalivre-ia)
 
-[**WHATSAPP**](http://bit.ly/EscolaLivre-IA)
+- [**WHATSAPP**](http://bit.ly/EscolaLivre-IA)
 
-[**LINKEDIN**](https://www.linkedin.com/company/escolalivre-ia/)
+- [**LINKEDIN**](https://www.linkedin.com/company/escolalivre-ia/)
 
-[**GITHUB**](https://www.github.com/escolalivre-ia/)
+- [**GITHUB**](https://www.github.com/escolalivre-ia/)
 
-[**SYMPLA**](https://www.sympla.com.br/escolalivre-ia)
+- [**SYMPLA**](https://www.sympla.com.br/escolalivre-ia)
 
-[**MEETUP**](https://www.meetup.com/pt-BR/escolalivre-ia/)
+- [**MEETUP**](https://www.meetup.com/pt-BR/escolalivre-ia/)
 
-[**TWITTER**](https://twitter.com/escolalivre_ia)
-
-![Twitter Follow](https://img.shields.io/twitter/follow/escolalivre_ia?label=escolalivre_ia&style=social)
+- [**TWITTER**](https://twitter.com/escolalivre_ia) ![Twitter Follow](https://img.shields.io/twitter/follow/escolalivre_ia?label=escolalivre_ia&style=social)
 
 
 # Aulas de 2020

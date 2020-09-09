@@ -22,7 +22,7 @@
 - Tratada para a Aula: [BitCoin_2012_a_2020.04.22.csv](https://github.com/escolalivre-ia/aulas/blob/master/15_Aula_DeepLearning_RNN_LSTM_2020/BitCoin_2012_a_2020.04.22.csv)
 <br/><br/>
 
-Para quaisquer dúvidas, críticas ou sugestôes, por favor, entre em contato!
+Para quaisquer dúvidas, críticas ou sugestões, por favor, entre em contato!
 <br/><br/>
 
 Att,

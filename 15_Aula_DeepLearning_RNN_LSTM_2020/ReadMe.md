@@ -21,8 +21,8 @@
  - https://www.kaggle.com/mczielinski/bitcoin-historical-data
 
 - Tratada para a Aula:
- - BitCoin_2012_a_2020.04.22.csv
- - https://github.com/escolalivre-ia/aulas/blob/master/15_Aula_DeepLearning_RNN_LSTM_2020/BitCoin_2012_a_2020.04.22.csv
+-- BitCoin_2012_a_2020.04.22.csv
+-- https://github.com/escolalivre-ia/aulas/blob/master/15_Aula_DeepLearning_RNN_LSTM_2020/BitCoin_2012_a_2020.04.22.csv
 
 
 Para quaisquer dúvidas, críticas ou sugestôes, por favor, entre em contato!

@@ -1,1 +1,0 @@
-C:\Users\VictorVenites\Anaconda3\python.exe C:\Users\VictorVenites\Anaconda3\cwp.py C:\Users\VictorVenites\Anaconda3 C:\Users\VictorVenites\Anaconda3\python.exe C:\Users\VictorVenites\Anaconda3\Scripts\jupyter-notebook-script.py "C:\Users\VictorVenites\Desktop\Escola_Livre_de_IA\Especial_2020.04.11_SerieTemporal_Covid19\Projeto_Aula"

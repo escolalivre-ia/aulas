@@ -1,5 +1,8 @@
 ![Logotipo Escola Livre de IA](http://escolalivre-ia.com.br/img/header-escola-livre-de-inteligencia-artificial.gif)
 
+![Escola Livre de IA](img/Logo_escola_livre.png?raw=true "Escola Livre de IA")
+
+
 # [**Escola Livre de IA**](http://escolalivre-ia.com.br/)
 ## [*Inteligência Artificial ao alcance de todos.*](http://escolalivre-ia.com.br/)
 

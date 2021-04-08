@@ -21,7 +21,7 @@ Reunimos nessa página os links e conteúdos das aulas da Escola Livre de Inteli
 
 - [**APOIA-SE**](https://apoia.se/escolalivre-ia)
 
-- [**WHATSAPP**](http://bit.ly/EscolaLivre-IA)
+- Temos um Whatsapp, porém, tente entrar em contato com alguém do grupo para enviarmos o convite
 
 - [**LINKEDIN**](https://www.linkedin.com/company/escolalivre-ia/)
 

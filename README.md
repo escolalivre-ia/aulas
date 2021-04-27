@@ -27,10 +27,6 @@ Reunimos nessa página os links e conteúdos das aulas da Escola Livre de Inteli
 
 - [**GITHUB**](https://www.github.com/escolalivre-ia/)
 
-- [**SYMPLA**](https://www.sympla.com.br/escolalivre-ia)
-
-- [**MEETUP**](https://www.meetup.com/pt-BR/escolalivre-ia/)
-
 - [**TWITTER**](https://twitter.com/escolalivre_ia) ![Twitter Follow](https://img.shields.io/twitter/follow/escolalivre_ia?label=escolalivre_ia&style=social)
 
 

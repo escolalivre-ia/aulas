@@ -13,6 +13,8 @@ Reunimos nessa página os links e conteúdos das aulas da Escola Livre de Inteli
 
 - [**SITE**](http://escolalivre-ia.com.br/)
 
+- [**Newsletter da Escola**](https://bit.ly/Inscricao-EscolaLivre-IA)
+
 - [**GRUPO NO FACEBOOK**](https://www.facebook.com/groups/escolalivre.ia/)
 
 - [**PÁGINA FACEBOOK**](https://www.facebook.com/escolalivre.ia/)

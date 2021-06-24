@@ -1,13 +1,24 @@
-Para tirar maior proveito e poder acompanhar as aulas de Linux, sugerimos que estejam acompanhando a aula com a seguinte configuração:
-
-- Virtualbox (Pode ser no Windows ou Linux)
-- Imagem do linux: https://mirrors.evowise.com/linuxmint/stable/20.1/linuxmint-20.1-xfce-64bit.iso
-- Computador com 4GB de memória RAM e HD minimo com 80 GB
+# Para tirar maior proveito e poder acompanhar as aulas de Linux, sugerimos que estejam acompanhando a aula com a seguinte configuração:
 
 
-Para instalar a VirtualBox, recomendemos procurar as melhores referências para seu sistema operacional.
 
-Por exemplo:
+# Requisitos minimos de configuração
 
-- [Windows](https://www.google.com/search?q=como+instalar+virtualbox+windows&ei=ivrMYIG8KI_B5OUP-POd4A8&oq=como+instalar+virtualbox+windows&gs_lcp=Cgdnd3Mtd2l6EAMyBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMggIABAWEAoQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeOgcIABBHELADUMsjWMsjYPAlaAJwAngAgAHpAYgB2gKSAQUwLjEuMZgBAKABAaoBB2d3cy13aXrIAQjAAQE&sclient=gws-wiz&ved=0ahUKEwiBqdnP-6HxAhWPILkGHfh5B_wQ4dUDCA4&uact=5)
-- [Linux](https://www.google.com/search?q=como+instalar+virtualbox+linux&ei=kPrMYIqFHZi45OUPltyBWA&oq=como+instalar+virtualbox+linux&gs_lcp=Cgdnd3Mtd2l6EAMyBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIICAAQFhAKEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeOgcIABBHELADUOioAlimrQJg9K4CaAJwAngAgAGSAYgB0wWSAQMwLjaYAQCgAQGqAQdnd3Mtd2l6yAEIwAEB&sclient=gws-wiz&ved=0ahUKEwiKjbzS-6HxAhUYHLkGHRZuAAsQ4dUDCA4&uact=5)
+
+**Sistema operacional**  
+- Windows7/10 | macOS | Linux
+- 4 GB RAM
+- HD/SSD 256 GB
+- Conexão com a internet
+
+
+**softwares/recursos**
+- 1 - Baixe a ISO: https://mirror1.cl.netactuate.com/fedora/releases/34/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-34-1.2.iso
+- 2 - Instale a VirtualBox:  
+    link(Windows): https://download.virtualbox.org/virtualbox/6.1.22/VirtualBox-6.1.22-144080-Win.exe  
+    tutorial de instalação: https://www.shaileshjha.com/how-to-install-oracle-vm-virtualbox-5-in-windows-10/   
+    link(macOS): https://download.virtualbox.org/virtualbox/6.1.22/VirtualBox-6.1.22-144080-OSX.dmg  
+    tutorial de instalação: https://services.dartmouth.edu/TDClient/1806/Portal/KB/ArticleDet?ID=71778  
+    link(Linux): https://www.virtualbox.org/wiki/Linux_Downloads = escoher a versão pela distro  
+    tutorial de instalação: https://www.edivaldobrito.com.br/virtualbox-no-linux/  
+- 3 - Instalação do fedora no virtualbox: https://itsfoss.com/install-fedora-in-virtualbox/`

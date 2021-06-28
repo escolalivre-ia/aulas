@@ -21,4 +21,4 @@
     tutorial de instalação: https://services.dartmouth.edu/TDClient/1806/Portal/KB/ArticleDet?ID=71778  
     link(Linux): https://www.virtualbox.org/wiki/Linux_Downloads = escoher a versão pela distro  
     tutorial de instalação: https://www.edivaldobrito.com.br/virtualbox-no-linux/  
-- **3 - Instalação do fedora no Virtualbox**: https://itsfoss.com/install-fedora-in-virtualbox/`
+- **3 - Instalação do fedora no Virtualbox**: https://itsfoss.com/install-fedora-in-virtualbox/

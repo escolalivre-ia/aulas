@@ -1,0 +1,15 @@
+historia,divida,garantias,renda,risco
+ruim,alta,nenhuma,0_15,alto
+desconhecida,alta,nenhuma,15_35,alto
+desconhecida,baixa,nenhuma,15_35,moderado
+desconhecida,baixa,nenhuma,acima_35,alto
+desconhecida,baixa,nenhuma,acima_35,baixo
+desconhecida,baixa,adequada,acima_35,baixo
+ruim,baixa,nenhuma,0_15,alto
+ruim,baixa,adequada,acima_35,moderado
+boa,baixa,nenhuma,acima_35,baixo
+boa,alta,adequada,acima_35,baixo
+boa,alta,nenhuma,0_15,alto
+boa,alta,nenhuma,15_35,moderado
+boa,alta,nenhuma,acima_35,baixo
+ruim,alta,nenhuma,15_35,alto
